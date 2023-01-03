@@ -1,8 +1,11 @@
 import { useEffect, useState } from 'react'
 import Home from "@/scenes/home"
+import Benefits from "@/scenes/benefits"
 import {Bars3Icon, XMarkIcon} from "@heroicons/react/24/solid"
 import  Navbar from "@/scenes/navbar"
 import {SelectedPage} from "@/shared/types"
+import OurClasses from './scenes/ourClasses'
+
 
 
 
@@ -32,6 +35,8 @@ function App() {
       setSelectedPage={setSelectedPage}
       />
       <Home setSelectedPage={setSelectedPage} />
+      <Benefits setSelectedPage={setSelectedPage} />
+      <OurClasses setSelectedPage={setSelectedPage} />
     </div>
   )
 }
