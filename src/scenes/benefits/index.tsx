@@ -13,7 +13,10 @@ const benefits: Array<BenefitType> =[
         icon:<HomeModernIcon className='h-6 w-6'/>,
         title:"State of Art Facilities",
         description:
-        "The facilities at our gym are top-notch and well-maintained. Our equipment is regularly serviced and cleaned to ensure a safe and comfortable workout experience for all of our members. We have a wide variety of cardio machines, weight lifting equipment, and functional fitness areas to accommodate all types of workouts. Our spacious locker rooms are equipped with showers, towel service, and hair dryers for your convenience. We also have a sauna and steam room to help you relax and unwind after your workout. Our staff is friendly and always available to assist with any questions or needs you may have. We take pride in maintaining a clean and welcoming environment for all of our members."
+        `The facilities at our gym are top-notch and well-maintained. Our equipment is regularly serviced and cleaned to ensure a safe 
+        and comfortable workout experience for all of our members. We have a wide variety of cardio machines, weight lifting equipment, 
+        and functional fitness areas to accommodate all types of workouts.
+        `
 
       },
 
@@ -21,7 +24,9 @@ const benefits: Array<BenefitType> =[
         icon:<UserGroupIcon className='h-6 w-6'/>,
         title:"100´s of divers Classes",
         description:
-        "Our gym offers a wide variety of classes to choose from, with over 100 options to fit your fitness goals and preferences. Whether you're looking for high-intensity interval training, yoga, pilates, dance, or something else entirely, we have a class for you. Our experienced and certified instructors will lead you through challenging and fun workouts in a supportive and inclusive environment. We also offer classes for different levels, so you can find the right fit whether you're a beginner or an experienced athlete. Join us for a class and discover all the ways you can move and have fun while getting fit."
+        `Our gym offers a wide variety of classes to choose from, with over 100 options to fit your fitness goals 
+        and preferences. Whether you're looking for high-intensity interval training, yoga, pilates, dance, 
+        or something else entirely, we have a class for you. `
 
       },
 
@@ -29,7 +34,11 @@ const benefits: Array<BenefitType> =[
         icon:<AcademicCapIcon className='h-6 w-6'/>,
         title:"Expert and pro trainer",
         description:
-        "Our team of expert and pro trainers are highly qualified and experienced professionals who are dedicated to helping you achieve your fitness goals. With advanced degrees and certifications in a variety of fields, including exercise science, kinesiology, and personal training, they have the knowledge and skills to design safe and effective workouts tailored to your needs. Whether you're looking to lose weight, build muscle, improve your endurance, or just feel better overall, our pro trainers are here to help. They are committed to providing personalized attention and support, and will work with you to create a plan that takes into account your unique goals, abilities, and preferences. Trust our pro trainers to help you transform your health and your life."
+        `Our team of expert and pro trainers are highly qualified and experienced professionals 
+        who are dedicated to helping you achieve your fitness goals. With advanced degrees and certifications in a variety of fields,
+         including exercise science, kinesiology, and personal training, 
+         they have the knowledge and skills to design safe and effective workouts tailored to your needs. 
+         `
 
       }
 

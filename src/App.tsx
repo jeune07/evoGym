@@ -5,6 +5,8 @@ import {Bars3Icon, XMarkIcon} from "@heroicons/react/24/solid"
 import  Navbar from "@/scenes/navbar"
 import {SelectedPage} from "@/shared/types"
 import OurClasses from './scenes/ourClasses'
+import ContactUs from './scenes/contactUs'
+import Footer from './scenes/footer'
 
 
 
@@ -37,6 +39,8 @@ function App() {
       <Home setSelectedPage={setSelectedPage} />
       <Benefits setSelectedPage={setSelectedPage} />
       <OurClasses setSelectedPage={setSelectedPage} />
+      <ContactUs setSelectedPage={setSelectedPage} />
+      <Footer setSelectedPage={setSelectedPage} />
     </div>
   )
 }

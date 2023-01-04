@@ -31,7 +31,7 @@ const Home = ({setSelectedPage}: Props) => {
             {/*MAIN HEADER */}
             <div className='z-10 mt-32 md:basis-3/5'>
                 {/*HEADINGS */}
-                <motion.div               className='md:-mt-20'
+                <motion.div   className='md:-mt-20'
                     initial="hidden"
                     whileInView="visible"
                     viewport={{once:true, amount:0.5}}

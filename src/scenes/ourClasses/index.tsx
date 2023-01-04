@@ -18,7 +18,10 @@ const classes: Array<ClassType>=[
   },
   {
     name:" Yoga CLasses",
-    description:"Looking to build strength and tone your muscles? Our weight training class is for you! In this 60-minute class, our certified personal trainer will guide you through a series of exercises using free weights, machines, and body weight to target all major muscle groups. You'll learn proper form and technique to maximize your results and reduce the risk of injury. All fitness levels are welcome, and the trainer can provide modifications and progressions to suit your needs. This class is suitable for participants age 16 and up. Please bring a water bottle and a towel, and be prepared to work hard and see results!",
+    description:`Looking to build strength and tone your muscles? Our weight training class is 
+    for you! In this 60-minute class, our certified personal trainer will guide you through a series 
+    of exercises using free weights, machines, and body weight to target all major muscle groups. 
+    You'll learn proper form and technique to maximize your results and reduce the risk of injury.`,
     image: image2
   },
   {
@@ -27,17 +30,26 @@ const classes: Array<ClassType>=[
   },
   {
     name:"Adventure CLasses",
-    description:"Looking to build strength and tone your muscles? Our weight training class is for you! In this 60-minute class, our certified personal trainer will guide you through a series of exercises using free weights, machines, and body weight to target all major muscle groups. You'll learn proper form and technique to maximize your results and reduce the risk of injury. All fitness levels are welcome, and the trainer can provide modifications and progressions to suit your needs. This class is suitable for participants age 16 and up. Please bring a water bottle and a towel, and be prepared to work hard and see results!",
+    description:`Looking to build strength and tone your muscles? Our weight training class is for you!
+     In this 60-minute class, our certified personal trainer will guide you through a series of exercises 
+     using free weights, machines, and body weight to target all major muscle groups. You'll learn proper 
+     form and technique to maximize your results and reduce the risk of injury.`,
     image: image4
   },
   {
     name:"Fitness CLasses",
-    description:"Looking to build strength and tone your muscles? Our weight training class is for you! In this 60-minute class, our certified personal trainer will guide you through a series of exercises using free weights, machines, and body weight to target all major muscle groups. You'll learn proper form and technique to maximize your results and reduce the risk of injury. All fitness levels are welcome, and the trainer can provide modifications and progressions to suit your needs. This class is suitable for participants age 16 and up. Please bring a water bottle and a towel, and be prepared to work hard and see results!",
+    description:`Looking to build strength and tone your muscles? Our weight training class is for you! In this 60-minute class, 
+    our certified personal trainer will guide you through a series of exercises using free weights, machines, and body weight to 
+    target all major muscle groups. You'll learn proper form and technique to maximize your results and reduce the risk of injury.
+    `,
     image: image5
   },
   {
     name:"Training CLasses",
-    description:"Looking to build strength and tone your muscles? Our weight training class is for you! In this 60-minute class, our certified personal trainer will guide you through a series of exercises using free weights, machines, and body weight to target all major muscle groups. You'll learn proper form and technique to maximize your results and reduce the risk of injury. All fitness levels are welcome, and the trainer can provide modifications and progressions to suit your needs. This class is suitable for participants age 16 and up. Please bring a water bottle and a towel, and be prepared to work hard and see results!",
+    description:`Looking to build strength and tone your muscles? Our weight training class is for you! In this 60-minute class, 
+    our certified personal trainer will guide you through a series of exercises using free weights, machines, and body weight to 
+    target all major muscle groups. You'll learn proper form and technique to maximize your results and reduce the risk of injury.`,
+    
     image: image6
   }
 
